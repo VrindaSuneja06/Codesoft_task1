@@ -1,1 +1,1 @@
-# Codesoft_task2
+This Python program creates a command-line to-do list manager. It defines two classes, Task and ToDoList, to represent tasks and manage the list of tasks. Users can add tasks with titles, descriptions, and due dates, view tasks with their details, mark tasks as complete, and exit the program. The interface is menu-driven and includes input validation for date formats.
